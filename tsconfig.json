@@ -13,7 +13,7 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
-    "types": ["node", "bcryptjs", "express","monaco-editor"], 
+    "types": ["express","monaco-editor","@types/bcryptjs", "node"], 
     "plugins": [
       {
         "name": "next"
