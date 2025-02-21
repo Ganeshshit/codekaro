@@ -1,4 +1,4 @@
-# CodingCorner
+# CodeKaro
 
 **CodingCorner** is a web application that supports real-time collaboration, allowing individual users to save files and folders to run code. This project is built using **Next.js**, **React**, **Tailwind CSS**, **TypeScript**, **Socket.IO**, **Monaco Editor**, and **JWT** for authentication and tokens.
 
