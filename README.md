@@ -80,7 +80,7 @@ Make sure the following software is installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Abdul-Raheem324/CodingCorner-Nextjs
+   git clone https://github.com/Ganeshshit/codekaro/
 
 
 2. **Install Dependencies**:
